@@ -1,3 +1,3 @@
 # Prince Sun Store
 
-Pastel-toned eco-friendly eCommerce site.
+Pastel-themed lifestyle e-commerce site built with Next.js and Tailwind CSS.
